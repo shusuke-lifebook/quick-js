@@ -40,6 +40,7 @@ temp/
 # --- IDE / Editor ---
 .vscode/*
 !.vscode/settings.json
+!.vscode/extensions.json
 *.code-workspace
 
 # --- OS / WSL2 ---
